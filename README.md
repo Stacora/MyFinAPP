@@ -285,11 +285,3 @@ requested):
 
 -   Database files are created automatically in `db/` directory
 -   If database is locked, ensure no other process is using it
-
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
