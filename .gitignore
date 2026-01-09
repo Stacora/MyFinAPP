@@ -1,0 +1,67 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj
+*.Rproj.user
+.DS_Store
+
+# renv
+renv/library/
+renv/python/
+renv/staging/
+renv/local/
+renv/.gitignore
+
+# Shiny
+rsconnect/
+
+# Data files (uncomment if you don't want to track data)
+# data/raw/*.xlsx
+# data/raw/*.csv
+# data/processed/
+db/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Conda environments (large, should not be in repo)
+practical_finance/shinyauthr/
+*.conda
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
+
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints
+
+
+## not wanted files
+REORGANIZATION_SUMMARY.md
+amdoren_api_currency.pages
+APP_NOTES.md
+python/.env

@@ -1,0 +1,10 @@
+Date,Amount,Currency,USD_price,USD_amount,From,To,Description,ITF
+1,150,PEN,3.8,39.47,Bank1,a,abcd,0.2
+2,200,USD,1,200.00,Bank2,b,abcd,0.2
+3,250,BRL,4.8,52.08,Bank3,c,abcd,0.2
+4,300,PEN,3.9,76.92,Bank4,a,abcd,0.2
+5,350,USD,2,175.00,Bank5,b,abcd,0.2
+6,400,BRL,4.9,81.63,Bank6,c,abcd,0.2
+7,450,PEN,3.1,145.16,Bank7,a,abcd,0.2
+8,500,USD,3,166.67,Bank8,b,abcd,0.2
+9,550,BRL,4.1,134.15,Bank9,c,abcd,0.2
